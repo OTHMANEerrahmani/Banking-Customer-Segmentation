@@ -45,4 +45,5 @@ def generate_cluster_insights(cluster_profiles: dict) -> dict:
         return {
             "error": "Generation Failed",
             "marketing_recommendations": f"Could not generate AI recommendations. An unexpected error occurred: {str(e)}",
+            "personas": [],
         }
