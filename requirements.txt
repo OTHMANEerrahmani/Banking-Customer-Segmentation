@@ -1,0 +1,11 @@
+
+reflex==0.8.15a1
+reflex-google-auth
+pandas
+numpy
+scikit-learn
+scipy
+plotly
+openpyxl
+google-generativeai
+google-genai
